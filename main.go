@@ -16,7 +16,7 @@ import (
 
 // Configuration
 const (
-	AGENT_ID   = "agent_HsMMkV3mUmXrM2AWXzLm41" // replace with your agent id
+	AGENT_ID   = "" // replace with your agent id
 	API_KEY    = "" // replace with your api key or set CARTESIA_API_KEY environment variable
 	BASE_URL   = "wss://agents.cartesia.ai"
 	VERSION    = "2025-04-16"
